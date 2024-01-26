@@ -248,3 +248,8 @@ SELECT name, salary_rank, win_rank,
     END AS Spending
 FROM ranked_data
 ORDER BY 2;
+
+
+drop INDEX new_index;
+create index new_index on batting_2(ab);
+EXPLAIN ANALYZE(SELECT ab FROM batting_2);
