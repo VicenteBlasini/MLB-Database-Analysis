@@ -7,6 +7,7 @@
     <list default="true" id="5aed81d9-74f7-4fb4-96ca-c38d77f3257a" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/Pandas_data_visualizations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Pandas_data_visualizations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/Queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/Queries.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706244639815</updated>
-      <workItem from="1706244640886" duration="3609000" />
+      <workItem from="1706244640886" duration="4281000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -116,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706247008933</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <option name="closed" value="true" />
+      <created>1706546113704</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706546113704</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update">
+      <option name="closed" value="true" />
+      <created>1706546247763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706546247763</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
